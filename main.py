@@ -2,6 +2,12 @@
 """One Letter for Your Day — W for wired.
 
 Writes exactly one letter, W, to /output/entry.txt. Nothing else.
+
+Why "wired": of all the W-words for a day, "wired" wins because it is
+vivid (you can picture the buzzing, over-caffeinated energy), funny
+(it turns a whole day into a live wire that will not sit still), and
+real (it is how an overstimulated day actually feels). One letter, W,
+carries that whole charge.
 """
 
 import os
